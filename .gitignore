@@ -1,0 +1,5 @@
+.env
+node_modules
+ServiceAccount.json
+db.sql
+requests.http
